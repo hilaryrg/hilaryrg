@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi 👋 My name is Hilary Gould
+Full Stack Developer
+I've worked in SaaS for about 5 years at companies ranging from pre venture funding to publicly traded. While working in Customer Success, I discovered my love of technical problem solving. I decided to enroll at @launchacademy to further develop my technical skills.
 
-<!--
-**hilaryrg/hilaryrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍  I'm based in Boston
+✉️  You can contact me at gould.hilary.r@gmail.com
+🚀  I'm currently working on Smart Shopper
+Skills
+JavaScript
+React
+CSS3
+NodeJS
+Express
+PostgreSQL
+Heroku
+Figma
+Socials
