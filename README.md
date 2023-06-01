@@ -4,7 +4,7 @@ Hi 👋 My name is Hilary Gould
 Full Stack Developer
 --------------------
 
-I've worked in SaaS for about 5 years at companies ranging from pre venture funding to publicly traded. While working in Customer Success, I discovered my love of technical problem solving. I decided to enroll at @launchacademy to further develop my technical skills.
+I've worked in SaaS for about 5 years at companies ranging from pre venture funding to publicly traded. While working in Customer Success, I discovered my love of technical problem solving. I decided to enroll at [launchacademy] (https://github.com/LaunchAcademy) to further develop my technical skills.
 
 * 🌍  I'm based in Boston
 * ✉️  You can contact me at [gould.hilary.r@gmail.com](mailto:gould.hilary.r@gmail.com)
